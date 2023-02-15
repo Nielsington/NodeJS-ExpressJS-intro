@@ -1,0 +1,18 @@
+{
+    "name": "expressjs",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.mjs",
+    "author": "Nielsington",
+    "license": "ISC",
+    "dependencies": {
+        "consolidate": "^0.16.0",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "mustache": "^4.2.0",
+        "nodemon": "^2.0.20"
+    },
+    "scripts": {
+        "dev": "nodemon index.mjs"
+    }
+}
